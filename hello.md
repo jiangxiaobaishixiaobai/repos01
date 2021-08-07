@@ -1,6 +1,6 @@
 # **Hello ,firstday!**
 
-##### This is my first miss!
+##### This is my first meet!
 
 Welcome To code wrold!
 
